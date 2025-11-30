@@ -1,0 +1,9 @@
+tensorflow==2.16.2
+opencv-python
+streamlit
+numpy
+google-generativeai
+requests
+transformers
+huggingface-hub
+python-dotenv
