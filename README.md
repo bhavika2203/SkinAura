@@ -64,45 +64,49 @@
 
 ## 📸 Screenshots
 
-### Logo & Branding
 <div align="center">
 
-![SkinAura Logo](skin_analyzer/images/logo.png)
+### 🎨 Logo & Branding
+
+<img src="skin_analyzer/images/logo.png" alt="SkinAura Logo" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Elegant and modern logo representing health and radiance*
 
-</div>
+---
 
-### Homepage Interface
-<div align="center">
+### 🏠 Homepage Interface
 
-![Homepage](skin_analyzer/images/homepage.png)
+<img src="skin_analyzer/images/homepage.png" alt="Homepage" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Clean and professional homepage with skin analysis features*
 
-</div>
+---
 
-### Image Upload & Analysis
-<div align="center">
+### 📤 Image Upload & Analysis
 
-![Image Upload](skin_analyzer/images/upload.png)
+<img src="skin_analyzer/images/upload.png" alt="Image Upload" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Easy drag-and-drop interface for uploading skin condition images*
 
-</div>
+---
 
-### Prediction Results
-<div align="center">
+### 📊 Prediction Results
 
-![Results](skin_analyzer/images/results.png)
+<img src="skin_analyzer/images/results.png" alt="Results" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Detailed disease prediction with symptoms, causes, and treatment information*
 
-</div>
+---
 
-### AI Chatbot Interaction
-<div align="center">
+### 💬 AI Chatbot Interaction
 
-![Chatbot](skin_analyzer/images/chatbot.png)
+<img src="skin_analyzer/images/chatbot.png" alt="Chatbot" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Interactive chatbot providing personalized health recommendations*
 
 </div>
+
+> **📝 Note**: To add your screenshots, save them as PNG files in `skin_analyzer/images/` with the exact filenames: `logo.png`, `homepage.png`, `upload.png`, `results.png`, and `chatbot.png`. See [ADD_IMAGES.md](ADD_IMAGES.md) for detailed instructions.
 
 ---
 
